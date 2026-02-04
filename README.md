@@ -1,13 +1,9 @@
-# Proyecto-data
+# 🤖 Predicción de Enfermedades Cardíacas
 
 <img width="1081" height="720" alt="image" src="https://github.com/user-attachments/assets/4db5a932-1f45-430a-ad8c-7bd5f5fdd43a" />
 
 Data Scientist:
 SUAREZ BONAHORA FLAVIA
-
-
-🤖 Predicción de Enfermedades Cardíacas
-
 
 Descripción del Problema
 
